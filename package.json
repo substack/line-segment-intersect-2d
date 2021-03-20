@@ -1,0 +1,10 @@
+{
+  "name": "line-segment-intersect-2d",
+  "version": "1.0.0",
+  "description": "determine whether two line segments intersect in 2d and calculate the intersection point",
+  "main": "index.js",
+  "devDependencies": {
+    "tape": "^5.2.2"
+  },
+  "license": "bsd"
+}
