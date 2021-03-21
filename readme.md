@@ -4,7 +4,7 @@ determine whether two line segments intersect in 2d and calculate the intersecti
 
 use [robust-segment-intersect][] for a numerically stable intersection test (but does not compute
 the intersection point) or [segseg][] for a similar routine as an ES module
-(line-segment-intersect is commonjs).
+(line-segment-intersect-2d is commonjs).
 
 [robust-segment-intersect]: https://github.com/mikolalysenko/robust-segment-intersect
 [segseg]: https://github.com/tmpvar/segseg
